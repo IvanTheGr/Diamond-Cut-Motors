@@ -1,0 +1,38 @@
+# ============================
+# OS GENERATED FILES
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# EDITOR / IDE SETTINGS
+# ============================
+.vscode/
+.idea/
+
+# ============================
+# LOG FILES
+# ============================
+*.log
+*.tmp
+*.bak
+
+# ============================
+# SYSTEM / TEMP FILES
+# ============================
+*.swp
+*.swo
+*.cache
+
+# ============================
+# MISC FILES TO IGNORE
+# ============================
+# Ignore Windows thumbnails
+ehthumbs.db
+
+# Ignore Mac metadata
+._*
+
+# Ignore temporary uploads or exports (if any)
+tmp/
+temp/
